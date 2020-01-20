@@ -39,3 +39,7 @@
 Binaries/Win64/UE4Editor-XRProject.pdb
 Binaries/Win64/UE4Editor.modules
 Binaries/Win64/XRProjectEditor.target
+Intermediate/
+Saved/
+.vs/
+Content/
